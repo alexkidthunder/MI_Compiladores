@@ -1,0 +1,18 @@
+<Linha, classe, lexema>
+
+<5, identificador, Alexandre>
+<5, identificador, Andre>
+<5, identificador, João>
+<5, identificador, Augusto>
+<5, delimitadores, ;>
+<7, PalavraReservada, function>
+<7, PalavraReservada, main>
+<7, delimitadores, (>
+<7, delimitadores, )>
+<13, delimitadores, ,)>
+<13, identificador, Bnome)>
+<15, Numeros, 2022)>
+
+<9, error, Sobre#nome)>
+<11, error, #Subnome)>
+<13, error, A#nome)>

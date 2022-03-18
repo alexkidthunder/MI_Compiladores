@@ -2,10 +2,14 @@
 Utilização de Identificadores variados com erros
 #/
 
-Alexandre, Andre, João, Augusto;
+Alexandre Andre João Augusto;
 
-Sobre#nome;
+function main()
 
-#Subnome;
+Sobre#nome
 
-A_nome;
+#Subnome
+
+A#nome, Bnome
+
+2022
