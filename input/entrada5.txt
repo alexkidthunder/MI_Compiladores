@@ -1,0 +1,27 @@
+/#
+ Teste de numero 5 tentativa sem apresentar erros
+#/
+
+const int MAXIMO = 10, MMINIMO = 5;
+	
+string Mensagem = "THE BEST";
+
+procedure main {  // Programa principal 
+
+	string nomeCompleto;
+	int idade; 
+	real gasolina;
+	
+	print("Digite o seu nome completo");
+	read(nomeCompleto);
+	print("Digite a idade");
+	read(idade);
+	
+	if (idade >= 51) {
+		print("Já passou da metade");
+	}else {
+		print("Ainda tem muito pra ver");
+		gasolina = 9,99;
+	}	
+ 
+} // fim mmain

@@ -1,0 +1,14 @@
+%Teste para Palavras reservadas
+var {
+    int idade, altura, peso;
+    char Nome = "Alexandre";
+}
+
+function aumentarIdade(integer i){
+	if(i>=1){
+		i = i + 1;
+		return i;
+	} else {
+		return i;
+	}
+}

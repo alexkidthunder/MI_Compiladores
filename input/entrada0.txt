@@ -1,0 +1,11 @@
+/# Arquivo teste de numero 0
+Utilização de Identificadores variados com erros
+#/
+
+Alexandre, Andre, João, Augusto;
+
+Sobre#nome;
+
+#Subnome;
+
+A_nome;

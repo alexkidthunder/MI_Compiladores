@@ -1,0 +1,11 @@
+/isto é um comentário de linha
+
+///isto é um comentário de linha
+
+#/isto é um comentário de linha
+
+?isto é um comentário de linha
+
+%/isto é um comentário de linha
+
+%isto é um comentário de linha

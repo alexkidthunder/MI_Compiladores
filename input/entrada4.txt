@@ -1,0 +1,12 @@
+// teste numero 4 - variação de erros
+	
+string No#me_1
+
+real 154.@15;
+
+1088#.76
+
+"Parece que temos um erro na cadeia de caracteres. faltou fechar as aspas
+
+/* Será que fechou // 
+ o comentario neste bloco?//
